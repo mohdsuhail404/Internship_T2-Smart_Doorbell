@@ -1,4 +1,4 @@
-# Internship Task 2: Smart Doorbell System
+# Internship Task 2: Smart Doorbell System 🔔
 
 An Arduino-based smart doorbell prototype developed as part of an internship assignment. This project utilizes a microcontroller to handle user inputs (like a push button) and trigger an alert system (like a buzzer or LED indicator).
 
